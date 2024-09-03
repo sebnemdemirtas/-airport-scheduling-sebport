@@ -9,7 +9,7 @@
 
 Prepared by:
 - Sebnem Demirtas - ID: 76813
-- Mete Erdogan - ID: 69666
+- Mete Erdogan - ID: 69666 (https://github.com/meterdogan07)
 
 #### Description: This project implements an Air Traffic Control (ATC) simulator using POSIX threads (pthreads) API.
 
